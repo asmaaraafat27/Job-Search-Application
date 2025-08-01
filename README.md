@@ -24,3 +24,4 @@ The **Job Search App** is designed to help users find job opportunities relevant
 ├── middleware         # Authentication & error handling
 └── utils              # Helper functions (OTP, email service)
 ```
+- 📨 API Documentation: [Postman Collection](https://documenter.getpostman.com/view/39725396/2sAYdoFnmP)
